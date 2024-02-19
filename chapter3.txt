@@ -5,3 +5,5 @@ Git was ready for his journey, prepared to face the trials ahead.
 
 Git took a deep breath as he stepped into the world of Version Control.
 
+The first challenge Git faced was understanding the concepts of Version Control.
+
