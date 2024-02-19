@@ -12,4 +12,6 @@ add new line
 
 add detalis in the chapter hub 
 
-add detalis in chapter fork
+vbnetCopy code
+Git was eager to explore new places.
+
