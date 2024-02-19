@@ -9,3 +9,5 @@ He had one dream - to explore the mysterious world of Version Control.
 
 
 add new line 
+
+add detalis in the chapter hub 
